@@ -1,0 +1,11 @@
+<html>
+<head>
+<form action=index.html>
+<body>
+<input type="text" name="txt1" value="t1">
+<input type="text" name="txt2" value="t2">
+<input type="submit" value="submit">
+</form>
+</body>
+</html>
+ 
