@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="css/bootsrap.min.css">
+<link rel="stylesheet" href="js/bootsrap.min.js">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#">WebSiteName</a>
+    </div>
+</head>
+</html>
+
